@@ -8,4 +8,3 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 ```
-# twrp_device_nothing_Galaga
